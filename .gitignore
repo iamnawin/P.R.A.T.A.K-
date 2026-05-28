@@ -1,0 +1,35 @@
+# Env files
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Build output
+.next/
+out/
+dist/
+
+# Supabase local
+supabase/.branches/
+supabase/.temp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+npm-debug.log*
+
+*.db

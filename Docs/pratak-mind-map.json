@@ -1,0 +1,159 @@
+{
+  "name": "Pratak",
+  "children": [
+    {
+      "name": "Product Identity",
+      "children": [
+        {
+          "name": "Parent Company: ZeroOrigins AI"
+        },
+        {
+          "name": "Tagline: Placement proof, in 60 seconds"
+        },
+        {
+          "name": "Category: Skilling Outcome Intelligence"
+        },
+        {
+          "name": "Backronym: Proof Record Audit Track Align Kindle"
+        }
+      ]
+    },
+    {
+      "name": "Target Users",
+      "children": [
+        {
+          "name": "Primary: Placement Officer (Ramesh)",
+          "children": [
+            {
+              "name": "Android & WhatsApp user"
+            },
+            {
+              "name": "Manages 100-200 candidates"
+            }
+          ]
+        },
+        {
+          "name": "Cheque-signer: PIA Owner (Mr. Reddy)",
+          "children": [
+            {
+              "name": "Cares about tranches recovered"
+            }
+          ]
+        },
+        {
+          "name": "Passive: Candidate (Lakshmi)",
+          "children": [
+            {
+              "name": "WhatsApp-only interaction"
+            },
+            {
+              "name": "Receives Phonepe incentives"
+            }
+          ]
+        },
+        {
+          "name": "One-time: MSME Employer (Suresh)"
+        },
+        {
+          "name": "Year-2 Buyer: State Mission Official"
+        }
+      ]
+    },
+    {
+      "name": "Core Product Modules",
+      "children": [
+        {
+          "name": "Module A: Placement Verification",
+          "children": [
+            {
+              "name": "Salary slip OCR"
+            },
+            {
+              "name": "WhatsApp nudge automation"
+            },
+            {
+              "name": "Audit-grade evidence locker"
+            }
+          ]
+        },
+        {
+          "name": "Module B: AI Readiness Coach",
+          "children": [
+            {
+              "name": "Mock interviews"
+            },
+            {
+              "name": "Resume auto-generation"
+            },
+            {
+              "name": "Job Readiness Score"
+            }
+          ]
+        },
+        {
+          "name": "Module C: Trust & Compliance"
+        },
+        {
+          "name": "Module D: MSME Marketplace"
+        },
+        {
+          "name": "Module E: Outcome Data Intelligence"
+        }
+      ]
+    },
+    {
+      "name": "Tech Stack",
+      "children": [
+        {
+          "name": "Frontend: Next.js 16, Tailwind v4, shadcn/ui"
+        },
+        {
+          "name": "Backend: FastAPI (Python), Supabase"
+        },
+        {
+          "name": "AI: Anthropic Claude (Sonnet & Haiku)"
+        },
+        {
+          "name": "Communication: WhatsApp Business API (Gupshup/Wati)"
+        },
+        {
+          "name": "Payments: Razorpay Payouts"
+        }
+      ]
+    },
+    {
+      "name": "Strategic Context",
+      "children": [
+        {
+          "name": "Sits beside Skill India Digital Hub (SIDH)"
+        },
+        {
+          "name": "Solves PMKVY 4.0 verification failures"
+        },
+        {
+          "name": "Multi-tenant architecture with RLS"
+        },
+        {
+          "name": "DPDP Act 2023 compliance"
+        }
+      ]
+    },
+    {
+      "name": "Business Model",
+      "children": [
+        {
+          "name": "Outcome-linked pilot (10% tranche)"
+        },
+        {
+          "name": "Per-batch SaaS fee (₹500/candidate)"
+        },
+        {
+          "name": "MSME pay-per-hire model"
+        },
+        {
+          "name": "Annual State Mission licenses"
+        }
+      ]
+    }
+  ]
+}
